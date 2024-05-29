@@ -1,0 +1,13 @@
+names:
+- Dogpoop
+- good
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: dogs-shitting
+  url: https://universe.roboflow.com/project/dogs-shitting/dataset/1
+  version: 1
+  workspace: project
+test: test/images
+train: train/images
+val: valid/images
